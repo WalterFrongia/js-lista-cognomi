@@ -10,17 +10,19 @@ let cognomiInLista = [ "Bianchi" , "Neri" , "Rossi" , "Verdi" , "Gialli"];
 
 console.log(cognomiInLista);
 
-cognomiInLista.push(cognomeUtente);
+cognomiInLista.push(cognomeUtente); //Prima qui avevo inserito un altro cognome -> "Speciale" spiegare. 
 
-if (cognomeUtente == cognomiInLista){
-    console.log("puoi accedere");
-}else{
-    console.log("non sei in lista");
-}
+// if (cognomeUtente == cognomiInLista){
+//     console.log("puoi accedere");
+// }else{
+//     console.log("non sei in lista");
+// }
 
 
 
 // stampa la lista ordinata alfabeticamente
+
+
 
 
 
